@@ -1,4 +1,4 @@
-# humanstxt.org/
+# humanstxt.Org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+to all  
 
 # TECHNOLOGY COLOPHON
 
